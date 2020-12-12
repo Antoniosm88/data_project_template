@@ -109,6 +109,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+data/credentials/credentials.py
+
 
 # Spyder project settings
 .spyderproject
@@ -130,3 +132,5 @@ dmypy.json
 
 # PyCharm
 .idea
+
+
