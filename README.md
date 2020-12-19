@@ -1,7 +1,7 @@
 # Data Project README file
 
-Changes made by Antonio | :smile: `:smile:` | :bowtie: `:bowtie:` |
-| :smirk: `:smirk:` | :heart_eyes: `:heart_eyes:` | :kissing_heart: `:kissing_heart:` |
+Changes made by Antonio :smile: :bowtie: 
+
 
 The README file describes the essence of the project playing the most important role. Most visitors will simply scroll down about twice on the README and leave if they are not interested. So, the README file should provide the reason **why** to checkout your project!!!). 
 Bearing that in mind, your job is to: 
